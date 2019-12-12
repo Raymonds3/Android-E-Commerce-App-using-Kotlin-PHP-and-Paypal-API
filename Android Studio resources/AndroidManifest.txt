@@ -1,0 +1,3 @@
+On your AndroidMainfest you add this line below for Internet
+
+<uses-permission android:name="android.permission.INTERNET" />

@@ -1,0 +1,10 @@
+On your built.gradle you add this lines below
+
+-the line below is for picasso(copy it as it is)
+implementation 'com.squareup.picasso:picasso:2.3.2'
+ 
+-the line below is for volley(copy it as it is)  
+implementation 'com.android.volley:volley:1.1.1'
+
+-the line below is for paypal API-sdk(copy it as it is)
+implementation 'com.paypal.sdk:paypal-android-sdk:2.14.2'
